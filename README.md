@@ -2,7 +2,7 @@
 
 A decentralized content platform/community which storage data in IPFS to avoid boring 404 and reward authors and valuable readers with FileCoin/LikeCoin.
 
-We are in an virtual Hackathon named [HackFS](https://hackfs.com/), helping building the foundation for the decentralized web.
+We are in a virtual Hackathon named [HackFS](https://hackfs.com/), helping building the foundation for the decentralized web.
 
 ## How It Works
 - If you are an author/creator/blogger/podcaster/vlogger eth, you can send your works in our decentralized content platform. We help you storage your works in IPFS/FileCoin network to avoid 404. 
