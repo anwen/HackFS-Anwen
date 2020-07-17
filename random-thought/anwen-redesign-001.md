@@ -1,15 +1,15 @@
 # Anwen Redesign
 
-I have designed Anwen many times.
+I have designed Anwen many times. Redesign it from scratch now.
 
 ## Features remains
-- writing and reading platform
-- open-source
-- community-driven-community
+- A writing and reading platform
+- Open-source
+- Community-Driven-Community
 - Incentives for creators with LikeCoin
 
 ## Features will done in HackFS
-- storage data in ipfs/filecoin elegant  3 days
+- Storage data in ipfs/filecoin elegant  3 days
 - Incentives for creators with FileCoin  3 days
 - Decentralization of all the community data 2 days
 
@@ -17,11 +17,11 @@ I have designed Anwen many times.
 - API which is easy to use
 - Incentives for people who share
 - Incentived RSS
-- using the open data, such as wikipedia and api of matters.news
+- Using the open data, such as wikipedia and api of matters.news
 
 ## Plan
-- test js/grpc/python api of ipfs and filecoin/lotus-devnet  1 week
-- first web demo (storage data in ipfs/filecoin elegant)   3 days
+- Test js/grpc/python api of ipfs and filecoin/lotus-devnet  1 week
+- First web demo (storage data in ipfs/filecoin elegant)   3 days
 - Incentives for creators with FileCoin  3 days
 - Decentralization of all the community data 2 days
 
