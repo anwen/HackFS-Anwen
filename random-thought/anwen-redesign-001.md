@@ -29,4 +29,19 @@ I have designed Anwen many times. Redesign it from scratch now.
 - DID(Decentralized Identity) Problem , Maybe we will skip it in HackFS
 - IPFS and IPNS and IPLD (such as: how to point to new version of my articles?)
 
+## Tools
+- json-ld
+- mkdocs
+
+## Reference
+- https://www.google.com/webmasters/markup-helper/
+- https://schema.org/docs/full.html
+- https://schema.org/docs/full.html
+- https://schema.org/Article
+- https://schema.org/Blog
+- https://json-ld.org/contexts/person.jsonld
+- https://blogs.pjjk.net/phil/metadata-for-markdown-mkdocs/
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+
+
 I will keeping thinking and designing
